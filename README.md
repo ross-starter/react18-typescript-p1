@@ -25,9 +25,11 @@ Via create-react-app (CRA) OR Vite (faster)
 
 1. npm i bootstrap@5.2.3
 
-## 2023.05.01 ListGroup
+## 2023.05.01 ListGroup Component
 
-/////// props are immutable / state is mutable
+
+// props are immutable / state is mutable
+
 
 - rendering a dynamic bootstrap component
 - passing data via props
@@ -36,3 +38,10 @@ Via create-react-app (CRA) OR Vite (faster)
 - fragments
 - managing state via Hook
 - handling events
+
+## 2023.05.01 Button Component
+
+// install ES7+ React/Redux/React-Native snippets VS Code Extension
+// @.tsx file> rafce "React Arrow Function Component Export"
+
+- passing children to a component via props
