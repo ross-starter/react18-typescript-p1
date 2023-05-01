@@ -39,7 +39,7 @@ Via create-react-app (CRA) OR Vite (faster)
 - managing state via Hook
 - handling events
 
-## 2023.05.01 Button Component
+## 2023.05.01B Alert Component
 
 // install ES7+ React/Redux/React-Native snippets VS Code Extension
 // @.tsx file> rafce "React Arrow Function Component Export"
