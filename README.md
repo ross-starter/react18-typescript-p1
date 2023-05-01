@@ -9,7 +9,14 @@
 
 
 ## create app
-Via 1) create-react-app (CRA) OR Vite (faster)
+Via create-react-app (CRA) OR Vite (faster)
+
 1. $> npm create vite@4.1.0 | @latest
+    >> react-app
+    >> React
+    >> Typescript
 
 
+2. $> cd react-app
+3. $> npm install
+4. $> npm run dev
