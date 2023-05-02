@@ -45,3 +45,11 @@ Via create-react-app (CRA) OR Vite (faster)
 // @.tsx file> rafce "React Arrow Function Component Export"
 
 - passing children to a component via props
+
+## 2023.05.02 CSS Modules
+
+// in CSS modules all class names are scoped locally; thus preventing clashes w others elsewhere in app
+// import styles from "./ListGroup.module.css";
+// single class <ul className='list-group'> => <ul className={styles['list-group']}> => <ul className={styles.listGroup}>
+// multiple classes <ul className={[styles.listGroup, styles.container].join(" ")}>
+// result: <ul class="_listGroup_9xnhk_1 _container_9xnhk_6">
